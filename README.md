@@ -1,1 +1,1 @@
-QuickLog-mobile 
+QuickLog-mobile
